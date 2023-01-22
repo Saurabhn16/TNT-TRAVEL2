@@ -1,0 +1,2 @@
+INSERT INTO `customer`(`user_id`, `fname`, `lname`, `pass_word`, `email`, `address`, `phone`, `aadhaar_no`) VALUES 
+('2','sadanand ','jaiswal','1234','sandy@gmail.com','Ganesh colony mumbai ','997564125','232165498798'),
